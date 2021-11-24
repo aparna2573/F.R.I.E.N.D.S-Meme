@@ -1,0 +1,152 @@
+body{
+    background-image: url("images/2.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap : 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    gap: 10px;
+
+}
+.heading{
+    font-size: 50px;
+    align-self: center;
+    color: white;
+}
+.big{
+    height: 150px;
+    width: 150px;
+}
+
+.medium{
+    height: 100px;
+    width: 100px;
+}
+.small{
+    height: 80px;
+    width: 80px;
+}
+.box-text-big{
+    font-size: 60px;
+    color:rgb(253, 228, 5);
+}
+.box-text-medium{
+    font-size: 45px;
+    color:rgb(253, 228, 5);
+}
+.box-text-small{
+    font-size: 30px;
+    color:rgb(253, 228, 5);
+}
+
+.spacebar{
+    display: flex;
+    justify-content: column;
+    align-items: flex-end;
+    color:yellow;
+    height:100px;
+    width: 500px;
+    background-image: url(../images/fspace.gif);
+    background-size: cover;
+    border-radius: 20px;
+    border-color: black;
+    align-self: center;
+
+}
+
+.box{ 
+    display: flex;
+    background-color:white;
+    border-color: black;
+    border-radius: 20px;
+}
+.w{ 
+    background-image: url(../images/w.gif);
+    background-size: cover;
+}
+.e{ 
+    background-image: url(../images/e.gif);
+    background-size: cover;
+}
+.t{ 
+    background-image: url(../images/t.gif);
+    background-size: cover;
+}
+.u{ 
+    background-image: url(../images/u.gif);
+    background-size: cover;
+}
+.i{ 
+    background-image: url(../images/i.gif);
+    background-size: cover;
+}
+.o{ 
+    background-image: url(../images/o.gif);
+    background-size: cover;
+}
+.p{ 
+    background-image: url(../images/pheobe.gif);
+    background-size: cover;
+}
+.s{ 
+    background-image: url(../images/smellycat.gif);
+    background-size: cover;
+}
+.d{
+    background-image: url(../images/200w.gif);
+    background-size: cover;
+}
+.f{
+    background-image: url(../images/fine.gif);
+    background-size: cover;
+}
+.h{
+    background-image: url(../images/h.gif);
+    background-size: cover;
+}
+.j{
+    background-image: url(../images/joey.gif);
+    background-size: cover;
+}
+.k{ 
+    background-image: url(../images/k.gif);
+    background-size: cover;
+}
+.l{ 
+    background-image: url(../images/london.gif);
+    background-size: cover;
+}
+.z{ 
+    background-image: url(../images/z.gif);
+    background-size: cover;
+}
+.x{
+    background-image: url(../images/x.gif);
+    background-size: cover;
+}
+.c{
+    background-image: url(../images/c.gif);
+    background-size: cover;
+}
+.v{
+    background-image: url(../images/va.gif);
+    background-size: cover;
+}
+.b{
+    background-image: url(../images/b.gif);
+    background-size: cover;
+}
+.n{
+    background-image: url(../images/n.gif);
+    background-size: cover;
+}
+.m{
+    background-image: url(../images/m.gif);
+    background-size: cover;
+}
