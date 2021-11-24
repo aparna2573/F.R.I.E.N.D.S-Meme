@@ -47,7 +47,7 @@ body{
 
 .spacebar{
     display: flex;
-    justify-content: column;
+    justify-content: center;
     align-items: flex-end;
     color:yellow;
     height:100px;
