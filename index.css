@@ -53,7 +53,7 @@ body{
     color:yellow;
     height:100px;
     width: 500px;
-    background-image: url(../images/fspace.gif);
+    background-image: url(/images/fspace.gif);
     background-size: cover;
     border-radius: 20px;
     border-color: black;
@@ -68,87 +68,87 @@ body{
     border-radius: 20px;
 }
 .w{ 
-    background-image: url(../images/w.gif);
+    background-image: url(/images/w.gif);
     background-size: cover;
 }
 .e{ 
-    background-image: url(../images/e.gif);
+    background-image: url(/images/e.gif);
     background-size: cover;
 }
 .t{ 
-    background-image: url(../images/t.gif);
+    background-image: url(/images/t.gif);
     background-size: cover;
 }
 .u{ 
-    background-image: url(../images/u.gif);
+    background-image: url(/images/u.gif);
     background-size: cover;
 }
 .i{ 
-    background-image: url(../images/i.gif);
+    background-image: url(/images/i.gif);
     background-size: cover;
 }
 .o{ 
-    background-image: url(../images/o.gif);
+    background-image: url(/images/o.gif);
     background-size: cover;
 }
 .p{ 
-    background-image: url(../images/pheobe.gif);
+    background-image: url(/images/pheobe.gif);
     background-size: cover;
 }
 .s{ 
-    background-image: url(../images/smellycat.gif);
+    background-image: url(/images/smellycat.gif);
     background-size: cover;
 }
 .d{
-    background-image: url(../images/200w.gif);
+    background-image: url(/images/200w.gif);
     background-size: cover;
 }
 .f{
-    background-image: url(../images/fine.gif);
+    background-image: url(/images/fine.gif);
     background-size: cover;
 }
 .h{
-    background-image: url(../images/h.gif);
+    background-image: url(/images/h.gif);
     background-size: cover;
 }
 .j{
-    background-image: url(../images/joey.gif);
+    background-image: url(/images/joey.gif);
     background-size: cover;
 }
 .k{ 
-    background-image: url(../images/k.gif);
+    background-image: url(/images/k.gif);
     background-size: cover;
 }
 .l{ 
-    background-image: url(../images/london.gif);
+    background-image: url(/images/london.gif);
     background-size: cover;
 }
 .z{ 
-    background-image: url(../images/z.gif);
+    background-image: url(/images/z.gif);
     background-size: cover;
 }
 .x{
-    background-image: url(../images/x.gif);
+    background-image: url(/images/x.gif);
     background-size: cover;
 }
 .c{
-    background-image: url(../images/c.gif);
+    background-image: url(/images/c.gif);
     background-size: cover;
 }
 .v{
-    background-image: url(../images/va.gif);
+    background-image: url(/images/va.gif);
     background-size: cover;
 }
 .b{
-    background-image: url(../images/b.gif);
+    background-image: url(/images/b.gif);
     background-size: cover;
 }
 .n{
-    background-image: url(../images/n.gif);
+    background-image: url(/images/n.gif);
     background-size: cover;
 }
 .m{
-    background-image: url(../images/m.gif);
+    background-image: url(/images/m.gif);
     background-size: cover;
 }
 
